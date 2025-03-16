@@ -1,5 +1,5 @@
-# ML-DL_Prac
-Machine_Learning &amp; Deep_Learning Practice
+# ML-DL_Practice
+Machine_Learning &amp; Deep_Learning Study
 
 
 
